@@ -1,0 +1,21 @@
+review_id,text,sentiment,date,response
+1,The ramen was amazing! Service was friendly.,positive,2025-07-19,
+2,Terrible fried rice. The service was friendly.,negative,2025-07-28,
+3,The sushi was okay. Service was fine.,neutral,2025-07-21,
+4,The dumplings was okay. Service was fine.,neutral,2025-08-11,
+5,Terrible dumplings. The service was excellent.,negative,2025-08-03,
+6,The dumplings was okay. Service was fine.,neutral,2025-08-01,
+7,The sushi was amazing! Service was terrible.,positive,2025-08-10,
+8,Terrible fried rice. The service was slow.,negative,2025-07-31,
+9,The dumplings was amazing! Service was friendly.,positive,2025-08-15,
+10,The ramen was amazing! Service was excellent.,positive,2025-07-23,
+11,Terrible sushi. The service was terrible.,negative,2025-08-16,
+12,Terrible ramen. The service was slow.,negative,2025-07-27,
+13,The dumplings was amazing! Service was slow.,positive,2025-08-01,
+14,The ramen was okay. Service was fine.,neutral,2025-07-23,
+15,The dumplings was okay. Service was fine.,neutral,2025-07-28,
+16,dumplings was okay,neutral,2025-08-17,Thank you for your feedback. We appreciate your review.
+17,terrible,negative,2025-08-17,"""I apologize for the disappointing experience you had at SteamNoodles, and I would like to make things right. Could you please provide more details about your visit so I can better understand what went wrong and make the necessary improvements?"""
+18,good,positive,2025-08-17,"""Thank you so much for taking the time to share your positive experience at SteamNoodles! We're thrilled to hear that you enjoyed your visit and can't wait to serve you again soon!"""
+19,almost good,neutral,2025-08-17,"""Thank you for taking the time to share your feedback with us! We're sorry to hear that we didn't quite hit the mark, and we'd love the opportunity to discuss what we could do to make your experience truly exceptional on your next visit."""
+20,sushi was amazing,positive,2025-08-17,"""Thank you so much for sharing your enthusiasm about our sushi! We're thrilled to hear that it exceeded your expectations and can't wait to serve you again soon!"""
