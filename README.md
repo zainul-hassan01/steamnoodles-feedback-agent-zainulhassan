@@ -16,6 +16,12 @@ Install Dependencies
 
 Run and Use The System
  - Clone The Repository
+
+
+ - *** AFTER YOU CLONE......... Please Make Sure You Have .env File....    IF Not Please Create a .env File and ADD THIS LINE "GROQ_API_KEY=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" IN .env FILE....
+ - Please Note Above API KEY IS MY API KEY IF IT IS NOT WORKING WHILE YOU TESTING KINDLY REPLACE YOUR GROQ API KEY.....
+
+
  - Install The Needed Dependencies
  - Run The System By This Command "python steam_noodles.py"
  - After Run You Will See Some of Options In That Select Your Option
