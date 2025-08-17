@@ -8,8 +8,8 @@ Prerequisites
  * ... If You Want To Use Your Own API Key Kindly Replace Yur API Key In .env File ...
 
 Setup
- - git clone https://github.com/yourusername/steamnoodles-feedback.git
- - cd steamnoodles-feedback
+ - git clone https://github.com/zainul-hassan01/steamnoodles-feedback-agent-zainulhassan.git
+ - cd steamnoodles-feedback-agent-zainulhassan
 
 Install Dependencies
  - pip install -r requirements.txt
