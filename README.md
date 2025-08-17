@@ -2,28 +2,32 @@
 =======
 Project Title - Automated Restaurant Feedback Agent SteamNoodles
 
+
+
 Prerequisites
  - Python 3.8+
  - Groq API key (Here I Gave My API Key....) 
  * ... If You Want To Use Your Own API Key Kindly Replace Yur API Key In .env File ...
 
+
+
 Setup
  - git clone https://github.com/zainul-hassan01/steamnoodles-feedback-agent-zainulhassan.git
  - cd steamnoodles-feedback-agent-zainulhassan
 
-Install Dependencies
- - pip install -r requirements.txt
 
 Run and Use The System
  - Clone The Repository
 
-
  - *** AFTER YOU CLONE......... Please Make Sure You Have .env File....    IF Not Please Create a .env File and ADD THIS LINE "GROQ_API_KEY=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" IN .env FILE....
  - Please Note Above API KEY IS MY API KEY IF IT IS NOT WORKING WHILE YOU TESTING KINDLY REPLACE YOUR GROQ API KEY.....
 
+ - Create Python Virtual Environment & Activate IT...
 
- - Install The Needed Dependencies
+ - Install The Needed Dependencies By This Command "pip install -r requirements.txt"
+
  - Run The System By This Command "python steam_noodles.py"
+
  - After Run You Will See Some of Options In That Select Your Option
    1. To Add a New Review
    2. To View The Recent Reviews
